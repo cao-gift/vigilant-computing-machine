@@ -3,17 +3,11 @@
 119.28.13.121 api.pgncs.notion.so
 119.28.13.121 exp.notion.so
 119.28.13.121 s3.us-west-2.amazonaws.com
-142.250.30.90 translate.googleapis.cn
-142.250.30.90 translate.google.com
-142.250.30.90 translate.google.cn
 18.154.144.62  www.deviantart.com
 54.192.81.49   st.deviantart.net
 18.65.25.6     a.deviantart.net
 104.26.14.163 wallhaven.cc
 104.18.23.52 pro.fontawesome.com
-203.208.50.33 fonts.googleapis.com
-203.208.50.66 fonts.gstatic.com
-104.17.24.14 cdnjs.cloudflare.com
 104.26.14.163 th.wallhaven.cc
 144.217.87.210 matomo.whvn.cc
 104.26.14.163 static.wallhaven.cc
